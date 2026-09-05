@@ -8,8 +8,770 @@
 - ID: NSKZOO
   lat: 55.0552
   lng: 82.879
-  name: 
+  name:
     en: Novosibirsk Zoo
     ru: Новосибирский зоопарк имени Ростислава Александровича Шило
     zh: 新西伯利亚动物园
   zoo_site: 'https://zoonovosib.ru'
+- ID: Moscow
+  lat: 55.7611
+  lng: 37.5783
+  name:
+    en: Moscow Zoo
+    ru: Московский зоопарк
+    zh: 莫斯科动物园
+  zoo_site: 'https://www.moscowzoo.ru'
+- ID: SPBZOO
+  lat: 59.9535
+  lng: 30.3091
+  name:
+    en: Leningrad Zoo
+    ru: Ленингра́дский зоопа́рк
+    zh: 列宁格勒动物园
+  zoo_site: 'http://www.spbzoo.ru'
+- ID: Udmurtii
+  lat: 56.8654
+  lng: 53.1745
+  name:
+    en: Udmurtii Zoo
+    ru: Зоопарк Удмуртии
+    zh: 乌德穆尔特动物园
+  zoo_site: 'https://udm-zoo.ru'
+- ID: Na-Lampushke
+  lat: 60.5901
+  lng: 30.1104
+  name:
+    en: Na Lampushke Zoo
+    ru: Зоопарк на Лампушке
+    zh: Na Lampushke动物园
+  zoo_site: 'https://lampushki.ru/en'
+- ID: Higashiyama
+  lat: 35.1551
+  lng: 136.9784
+  name:
+    en: Higashiyama Zoo
+    ja: 東山動植物園
+    zh: 东山动植物园
+  zoo_site: 'https://www.higashiyama.city.nagoya.jp'
+- ID: Saitama
+  lat: 36.0011
+  lng: 139.3747
+  name:
+    en: Saitama Children Zoo
+    ja: 埼玉縣兒童動物自然公園
+    zh: 埼玉儿童动物自然公园
+  zoo_site: 'https://en.chocotabi-saitama.com/spot/20837'
+- ID: Ueno
+  lat: 35.716
+  lng: 139.7729
+  name:
+    en: Ueno Zoo
+    ja: 上野動物園
+    zh: 上野动物园
+  zoo_site: 'https://www.tokyo-zoo.net'
+- ID: Nasu
+  lat: 37.1292
+  lng: 140.0371
+  name:
+    en: Nasu Animal Kingdom
+    ja: 那須どうぶつ王国
+    zh: 那须动物王国
+  zoo_site: 'https://nasu-oukoku.com'
+- ID: Kobe
+  lat: 34.6547
+  lng: 135.2226
+  name:
+    en: Kobe Animal Kingdom
+    ja: 神戸どうぶつ王国
+    zh: 神户动物王国
+  zoo_site: 'https://en.kobe-oukoku.com'
+- ID: Kobe-Oji
+  lat: 34.7096
+  lng: 135.2152
+  name:
+    en: Kobe Ōji Zoo
+    ja: 神戸市立王子動物園
+    zh: 王子动物园
+  zoo_site: 'https://www.kobe-ojizoo.jp'
+- ID: Asahiyama
+  lat: 43.7691
+  lng: 142.4791
+  name:
+    en: Asahiyama Zoo
+    ja: 旭山動物園
+    zh: 旭山动物园
+  zoo_site: 'https://www.city.asahikawa.hokkaido.jp/asahiyamazoo'
+- ID: Nordens-Ark
+  lat: 58.4421
+  lng: 11.4354
+  name:
+    en: Nordens Ark
+    zh: 北境方舟动物园
+  zoo_site: 'https://en.nordensark.se'
+- ID: Barnaul
+  lat: 53.3565
+  lng: 83.6842
+  name:
+    en: Barnaul'skiy Zoo
+    ru: Барнаульский зоопарк
+    zh: 巴尔瑙尔动物园
+  zoo_site: 'https://www.zoo22.ru'
+- ID: Banham
+  lat: 52.447
+  lng: 1.0274
+  name:
+    en: Banham Zoo
+    zh: 班纳姆动物园
+  zoo_site: 'https://www.zsea.org/banham'
+- ID: Smarden
+  lat: 51.162
+  lng: 0.6619
+  name:
+    en: Big Cat Sanctuary
+    zh: 斯马登大猫保护区
+  zoo_site: 'https://thebigcatsanctuary.org'
+- ID: Lympne
+  lat: 51.0784
+  lng: 1.0007
+  name:
+    en: Port Lympne Reserve
+    zh: 林普尼港野生动物园
+  zoo_site: 'https://www.aspinallfoundation.org/port-lympne'
+- ID: Howletts
+  lat: 51.2698
+  lng: 1.1567
+  name:
+    en: Howletts Wildlife Park
+    zh: 霍利茨野生动物园
+  zoo_site: 'https://www.aspinallfoundation.org/howletts'
+- ID: Cotswold
+  lat: 51.7757
+  lng: -1.648
+  name:
+    en: Cotswold Wildlife Park
+    zh: 科茨沃尔德野生动物园
+  zoo_site: 'https://www.cotswoldwildlifepark.co.uk'
+- ID: Natae
+  lat: 47.8122
+  lng: -3.4076
+  name:
+    en: Pont-Scorff Zoo
+    zh: 自然之境动物园
+  zoo_site: 'https://www.lesterresdenatae.fr'
+- ID: Spaycific
+  lat: 47.9209
+  lng: 0.1401
+  name:
+    en: Spaycific’Zoo
+    zh: 斯派动物园
+  zoo_site: 'https://www.spaycificzoo.com'
+- ID: Lille
+  lat: 50.6381
+  lng: 3.0478
+  name:
+    en: Lille Zoo
+    zh: 里尔动物园
+  zoo_site: 'https://www.lille.fr/Zoo-de-Lille'
+- ID: Rotterdam
+  lat: 51.9281
+  lng: 4.444
+  name:
+    en: Rotterdam Zoo
+    zh: 鹿特丹动物园
+  zoo_site: 'https://diergaardeblijdorp.nl/en'
+- ID: ZIEZOO
+  lat: 52.0051
+  lng: 4.3923
+  name:
+    en: Zie-ZOO
+    zh: ZiE-ZOO动物园
+  zoo_site: 'https://www.dierenparkziezoo.nl'
+- ID: Neuwied
+  lat: 50.453
+  lng: 7.5627
+  name:
+    en: Neuwied Zoo
+    zh: 新维德动物园
+  zoo_site: 'https://www.zooneuwied.de'
+- ID: Opel
+  lat: 50.1838
+  lng: 8.4842
+  name:
+    en: Opel-Zoo
+    zh: 欧宝动物园
+  zoo_site: 'https://www.opel-zoo.de'
+- ID: Grasleben
+  lat: 52.3195
+  lng: 10.9856
+  name:
+    en: Grasleben
+    zh: 格拉斯莱本物种保护中心
+  zoo_site: 'https://www.artenschutzzentrum-grasleben.de'
+- ID: Hellabrunn
+  lat: 48.0969
+  lng: 11.5538
+  name:
+    en: Hellabrunn Zoo
+    zh: 海拉布伦动物园
+  zoo_site: 'https://www.hellabrunn.de/en'
+- ID: Berlin
+  lat: 52.5022
+  lng: 13.5315
+  name:
+    en: Berlin (Tierpark)
+    zh: 东柏林动物园
+  zoo_site: 'https://www.tierpark-berlin.de/en'
+- ID: Dessau
+  lat: 51.8466
+  lng: 12.234
+  name:
+    en: Dessau Zoo
+    zh: 德绍动物园
+  zoo_site: 'https://tierpark.dessau-rosslau.de/tierpark-dessau.html'
+- ID: Chemnitz
+  lat: 50.8182
+  lng: 12.8339
+  name:
+    en: Chemnitz Zoo
+    zh: 开姆尼茨动物园
+  zoo_site: 'https://www.tierpark-chemnitz.de'
+- ID: Gorlitz
+  lat: 51.1425
+  lng: 14.9788
+  name:
+    en: Görlitz Zoo
+    zh: 格尔尼茨动物园
+  zoo_site: 'https://www.tierpark-goerlitz.de/en'
+- ID: La-Torbiera
+  lat: 45.6746
+  lng: 8.5882
+  name:
+    en: La Torbiera
+    zh: 泥炭沼泽野生动物园
+  zoo_site: 'https://www.latorbiera.it'
+- ID: Jihlava
+  lat: 49.3967
+  lng: 15.5994
+  name:
+    en: Jihlava Zoo
+    zh: 伊希拉瓦动物园
+  zoo_site: 'https://zoojihlava.cz'
+- ID: Brno
+  lat: 49.2305
+  lng: 16.5329
+  name:
+    en: Brno Zoo
+    zh: 布尔诺动物园
+  zoo_site: 'https://www.zoobrno.cz'
+- ID: Poznan
+  lat: 52.4004
+  lng: 16.9944
+  name:
+    en: Poznań Nowe Zoo
+    zh: 波兹南动物园
+  zoo_site: 'https://zoo.poznan.pl'
+- ID: Wroclaw
+  lat: 51.1057
+  lng: 17.0762
+  name:
+    en: Zoo Wrocław
+    zh: 弗罗茨瓦夫动物园
+  zoo_site: 'https://zoo.wroclaw.pl'
+- ID: Krakow
+  lat: 50.055
+  lng: 19.8542
+  name:
+    en: Kraków Zoo
+    zh: 克拉科夫动物园
+  zoo_site: 'https://zoo-krakow.pl'
+- ID: Warszawa
+  lat: 52.258
+  lng: 21.0216
+  name:
+    en: Warszawa Zoo
+    zh: 华沙动物园
+  zoo_site: 'https://zoo.waw.pl'
+- ID: Kosice
+  lat: 48.7836
+  lng: 21.204
+  name:
+    en: Košice Zoo
+    zh: 科希策动物园
+  zoo_site: 'https://zookosice.sk'
+- ID: Budapest
+  lat: 47.519
+  lng: 19.0776
+  name:
+    en: Budapest Zoo
+    zh: 布达佩斯动植物园
+  zoo_site: 'https://www.zoobudapest.com/en'
+- ID: Szeged
+  lat: 46.2519
+  lng: 20.1182
+  name:
+    en: Szeged Zoo
+    zh: 塞格德动物园
+  zoo_site: 'https://zooszeged.hu'
+- ID: Kaunas
+  lat: 54.9028
+  lng: 23.95
+  name:
+    en: Lithuanian Zoo
+    zh: 立陶宛动物园
+  zoo_site: 'https://www.zoosodas.lt/en'
+- ID: Tallinn
+  lat: 59.4198
+  lng: 24.6598
+  name:
+    en: Tallinn Zoo
+    zh: 塔林动物园
+  zoo_site: 'https://tallinnzoo.ee/en'
+- ID: Korkeasaari
+  lat: 60.1749
+  lng: 24.985
+  name:
+    en: Korkeasaari Zoo
+    zh: 高岛动物园
+  zoo_site: 'https://www.korkeasaari.fi/en'
+- ID: Dakota
+  lat: 46.7994
+  lng: -100.8068
+  name:
+    en: Dakota Zoo
+    zh: 达科他动物园
+  zoo_site: 'https://www.dakotazoo.org'
+- ID: Red-River
+  lat: 46.8444
+  lng: -96.8545
+  name:
+    en: Red River Zoo
+    zh: 红河动物园
+  zoo_site: 'https://www.redriverzoo.org'
+- ID: Hemker-Park
+  lat: 45.6719
+  lng: -94.6693
+  name:
+    en: Hemker Park Zoo
+    zh: 亨克公园动物园
+  zoo_site: 'https://hemkerzoo.com'
+- ID: Lake-Superior
+  lat: 46.7253
+  lng: -92.19
+  name:
+    en: Lake Superior Zoo
+    zh: 苏必利尔湖动物园
+  zoo_site: 'https://lszoo.org'
+- ID: Great-Plains
+  lat: 43.5392
+  lng: -96.7624
+  name:
+    en: Great Plains Zoo
+    zh: 大平原动物园
+  zoo_site: 'https://www.greatzoo.org'
+- ID: Niabi
+  lat: 41.4422
+  lng: -90.435
+  name:
+    en: Niabi Zoo
+    zh: 尼亚比动物园
+  zoo_site: 'https://www.niabizoo.com'
+- ID: Brookfield
+  lat: 41.8327
+  lng: -87.8368
+  name:
+    en: Brookfield Zoo
+    zh: 布鲁克菲尔德动物园
+  zoo_site: 'https://www.brookfieldzoo.org'
+- ID: Miller-Park
+  lat: 40.4695
+  lng: -89.0053
+  name:
+    en: Miller Park Zoo
+    zh: 米勒公园动物园
+  zoo_site: 'https://mpzs.org'
+- ID: Potter-Park
+  lat: 42.7178
+  lng: -84.5277
+  name:
+    en: Potter Park Zoo
+    zh: 波特公园动物园
+  zoo_site: 'https://potterparkzoo.org'
+- ID: Cincinnati
+  lat: 39.1426
+  lng: -84.5093
+  name:
+    en: Cincinnati Zoo
+    zh: 辛辛那提动物园
+  zoo_site: 'https://cincinnatizoo.org'
+- ID: Columbus
+  lat: 40.1562
+  lng: -83.1174
+  name:
+    en: Columbus Zoo
+    zh: 哥伦布动物园
+  zoo_site: 'https://www.columbuszoo.org'
+- ID: Ross-Park
+  lat: 42.0756
+  lng: -75.9065
+  name:
+    en: Ross Park Zoo
+    zh: 罗斯公园动物园
+  zoo_site: 'https://rossparkzoo.org'
+- ID: Utica
+  lat: 43.082
+  lng: -75.2452
+  name:
+    en: The Utica Zoo
+    zh: 尤蒂卡动物园
+  zoo_site: 'https://www.uticazoo.org'
+- ID: Prospect-Park
+  lat: 40.6642
+  lng: -73.9651
+  name:
+    en: Prospect Park Zoo
+    zh: 展望公园动物园
+  zoo_site: 'https://prospectparkzoo.com'
+- ID: Smithsonian
+  lat: 38.9296
+  lng: -77.0499
+  name:
+    en: Smithsonian Zoo
+    zh: 美国国家动物园
+  zoo_site: 'https://nationalzoo.si.edu'
+- ID: Mill-Mountain
+  lat: 37.2478
+  lng: -79.9365
+  name:
+    en: Mill Mountain Zoo
+    zh: 米尔山动物园
+  zoo_site: 'https://www.mmzoo.org'
+- ID: Birmingham
+  lat: 33.4896
+  lng: -86.7775
+  name:
+    en: Birmingham Zoo
+    zh: 伯明翰动物园
+  zoo_site: 'https://www.birminghamzoo.com'
+- ID: Lee-Richardson
+  lat: 37.9593
+  lng: -100.8733
+  name:
+    en: Lee Richardson Zoo
+    zh: 李·理查德森动物园
+  zoo_site: 'https://www.leerichardsonzoo.org'
+- ID: CMZOO
+  lat: 38.7705
+  lng: -104.852
+  name:
+    en: Cheyenne Moutain
+    zh: 夏延山动物园
+  zoo_site: 'https://www.cmzoo.org'
+- ID: Hogle
+  lat: 40.7503
+  lng: -111.8142
+  name:
+    en: Hogle Zoo
+    zh: 霍格尔动物园
+  zoo_site: 'https://www.hoglezoo.org'
+- ID: Cat-Haven
+  lat: 36.7666
+  lng: -119.127
+  name:
+    en: Cat Haven
+    zh: Cat Haven动物园
+  zoo_site: 'https://cathaven.com'
+- ID: EFBC-FCC
+  lat: 34.8739
+  lng: -118.2357
+  name:
+    en: EFBC/FCC
+    zh: EFBC猫科保护中心
+  zoo_site: 'http://www.cathouse-fcc.org'
+- ID: Calgary
+  lat: 51.045
+  lng: -114.0307
+  name:
+    en: Calgary Zoo
+    zh: 卡尔加里动物园
+  zoo_site: 'https://www.calgaryzoo.com'
+- ID: Pueblo
+  lat: 38.2616
+  lng: -104.6566
+  name:
+    en: Pueblo Zoo
+    zh: 普韦布洛动物园
+  zoo_site: 'https://www.pueblozoo.org'
+- ID: Highland
+  lat: 57.1096
+  lng: -3.9683
+  name:
+    en: Highland Wildlife Park
+    zh: 高地野生动物园
+  zoo_site: 'https://www.highlandwildlifepark.org.uk'
+- ID: Chomutov
+  lat: 50.4735
+  lng: 13.4202
+  name:
+    en: Chomutov Zoo
+    zh: 霍穆托夫动物园
+  zoo_site: 'https://zoopark.cz'
+- ID: Hertfordshire
+  lat: 51.744
+  lng: -0.0626
+  name:
+    en: Hertfordshire Zoo
+    zh: 赫特福德郡动物园
+  zoo_site: 'https://www.hertfordshirezoo.com'
+- ID: San-Diego
+  lat: 32.736
+  lng: -117.1508
+  name:
+    en: San Diego Zoo
+    zh: 圣地亚哥动物园
+  zoo_site: 'https://sandiegozoowildlifealliance.org'
+- ID: Saarbrucken
+  lat: 49.229
+  lng: 7.04
+  name:
+    en: Saarbrücken Zoo
+    zh: 萨尔布吕肯动物园
+  zoo_site: 'https://zoo.saarbruecken.de'
+- ID: Riga
+  lat: 57.0062
+  lng: 24.1576
+  name:
+    en: Riga Zoo
+    zh: 里加动物园
+  zoo_site: 'https://rigazoo.lv/en'
+- ID: Prague
+  lat: 50.1177
+  lng: 14.406
+  name:
+    en: Prague Zoo
+    ru: Zoologická zahrada
+    zh: 布拉格动物园
+  zoo_site: 'https://www.zoopraha.cz/en'
+- ID: Lodz
+  lat: 51.7638
+  lng: 19.4124
+  name:
+    en: Łódź Zoo
+    zh: 罗兹动物园
+  zoo_site: 'https://orientarium.lodz.pl/en'
+- ID: Saskatoon
+  lat: 52.1583
+  lng: -106.5849
+  name:
+    en: Saskatoon Zoo
+    zh: 萨斯卡通动物园
+  zoo_site: 'https://www.saskatoon.ca/parks-recreation-attractions/events-attractions/saskatoon-forestry-farm-park-zoo'
+- ID: Lincoln-Park
+  lat: 41.9217
+  lng: -87.6337
+  name:
+    en: Lincoln Park Zoo
+    zh: 林肯公园动物园
+  zoo_site: 'https://www.lpzoo.org'
+- ID: Oglebay
+  lat: 40.097
+  lng: -80.6668
+  name:
+    en: Oglebay Good Zoo
+    zh: 奥格尔贝动物园
+  zoo_site: 'https://oglebay.com/good-zoo'
+- ID: Edinburgh
+  lat: 55.9424
+  lng: -3.2686
+  name:
+    en: Edinburgh Zoo
+    zh: 苏格兰国家动物园
+  zoo_site: 'https://www.edinburghzoo.org.uk'
+- ID: Lumigny
+  lat: 48.7108
+  lng: 2.96
+  name:
+    en: Parc des Félins
+    zh: 猫科动物公园
+  zoo_site: 'https://lumigny-safari-reserve.com'
+- ID: Topeka
+  lat: 39.0561
+  lng: -95.7269
+  name:
+    en: Topeka Zoo
+    zh: 托皮卡动物园
+  zoo_site: 'https://topekazoo.org'
+- ID: Tregomeur
+  lat: 48.5803
+  lng: -2.885
+  name:
+    en: Trégomeur Zoo
+    zh: 特雷戈默尔动物园
+  zoo_site: 'https://www.zoo-tregomeur.com/en/the-park'
+- ID: Lyon
+  lat: 45.7772
+  lng: 4.8555
+  name:
+    en: Lyon Zoo
+    zh: 里昂动物园
+  zoo_site: 'http://www.zoo.lyon.fr/zoo'
+- ID: BCR
+  lat: 28.0568
+  lng: -82.5726
+  name:
+    en: Big Cat Rescue
+    zh: 大猫救援动物园
+  zoo_site: bigcatrescue.org'
+- ID: Parken
+  lat: 59.3706
+  lng: 16.4812
+  name:
+    en: Parken Zoo
+    zh: 帕肯动物园
+  zoo_site: 'https://www.parkenzoo.se'
+- ID: Paris
+  lat: 48.8337
+  lng: 2.4171
+  name:
+    en: Paris Zoo
+    zh: 巴黎动物园
+  zoo_site: 'https://www.parczoologiquedeparis.fr'
+- ID: Bouillon
+  lat: 49.7919
+  lng: 5.0792
+  name:
+    en: Bouillon Zoo
+    zh: 布永动物园
+  zoo_site: 'https://www.parcanimalierdebouillon.be/fr'
+- ID: Zurich
+  lat: 47.3843
+  lng: 8.5745
+  name:
+    en: Zürich Zoo
+    zh: 苏黎世动物园
+  zoo_site: 'https://www.zoo.ch/en'
+- ID: Serrano-Hospital
+  lat: 33.6387
+  lng: -117.6812
+  name:
+    en: Serrano Hospital
+    zh: 塞拉诺动物医院
+  zoo_site: 'https://serranoanimalandbirdhospital.com'
+- ID: Qu-Shui
+  lat: 29.3711
+  lng: 90.7801
+  name:
+    en: Qushui Wildlife Park
+    zh: 曲水野生动物保护园
+  zoo_site: 'https://www.douyin.com/user/MS4wLjABAAAAUq57aZlRnUlOrMfqJ4gMEIVjhv5fYKkz5SLJP9g67bk'
+- ID: Gdansk
+  lat: 54.4129
+  lng: 18.5344
+  name:
+    en: Gdańsk Zoo
+    zh: 格但斯克动物园
+  zoo_site: 'https://zoo.gdansk.pl/en/homepage'
+- ID: The-Wild
+  name:
+    en: the wild
+    zh: 野外
+- ID: Bramble-Park
+  lat: 44.9091
+  lng: -97.1307
+  name:
+    en: Bramble Park Zoo
+    zh: 布兰布尔公园动物园
+  zoo_site: 'https://www.brambleparkzoo.com'
+- ID: Denver
+  lat: 39.7493
+  lng: -104.9508
+  name:
+    en: Denver Zoo
+    zh: 丹佛动物园
+  zoo_site: 'https://denverzoo.org'
+- ID: Ranua
+  lat: 65.9434
+  lng: 26.4669
+  name:
+    en: Ranua Zoo
+    zh: 拉努阿动物园
+  zoo_site: 'https://ranuaresort.com/en/wildlife-park'
+- ID: Plantes-Paris
+  lat: 48.8436
+  lng: 2.3588
+  name:
+    en: Jardin des Plantes
+    zh: 巴黎植物园
+  zoo_site: 'https://www.jardindesplantesdeparis.fr/en'
+- ID: Bei-Jing
+  lat: 39.9402
+  lng: 116.3395
+  name:
+    en: Beijing Zoo
+    zh: 北京动物园
+  zoo_site: 'https://www.beijing.gov.cn/renwen/rwzyd/lyjq/4A/bjdwy/202210/t20221019_2839429.html'
+- ID: Nan-Jing
+  lat: 32.0917
+  lng: 118.8024
+  name:
+    en: Nanjing Zoo
+    zh: 南京动物园
+  zoo_site: 'http://www.njhszoo.com'
+- ID: Tian-Jin
+  lat: 39.0818
+  lng: 117.1692
+  name:
+    en: Tianjin Zoo
+    zh: 天津动物园
+  zoo_site: 'https://csgl.tj.gov.cn/zl/cslhjs/ssgy/202009/t20200922_3777799.html'
+- ID: Zheng-Zhou
+  lat: 34.7891
+  lng: 113.6846
+  name:
+    en: Zhengzhou Zoo
+    zh: 郑州动物园
+  zoo_site: 'https://www.zhengzhouzoo.cn'
+- ID: Gu-Yuan
+  lat: 36.0033
+  lng: 106.2782
+  name:
+    en: Guyuan Zoo
+    zh: 固原西湖公园动物园
+- ID: Mulhouse
+  lat: 47.7318
+  lng: 7.3481
+  name:
+    en: Zoo de Mulhouse
+    zh: 米卢斯动植物园
+  zoo_site: 'https://www.zoo-mulhouse.com'
+- ID: Unknown
+  name:
+    en: unknown
+    zh: 未确定
+- ID: Erie
+  lat: 42.0977
+  lng: -80.0764
+  name:
+    en: Erie Zoo
+    zh: 伊利动物园
+  zoo_site: 'https://www.eriezoo.org'
+- ID: Eindhoven
+  lat: 51.4536
+  lng: 5.5811
+  name:
+    en: Eindhoven Zoo
+    zh: 艾恩德霍芬动物园
+  zoo_site: 'https://www.eindhovenzoo.nl'
+- ID: Gallorose
+  lat: 43.2896
+  lng: 10.53
+  name:
+    en: Parco Gallorose
+    zh: Gallorose动物园
+  zoo_site: 'https://www.parcogallorose.it'
+- ID: Vienna
+  lat: 48.1823
+  lng: 16.3029
+  name:
+    en: Vienna Zoo
+    zh: 维也纳动物园
+  zoo_site: 'https://www.zoovienna.at'
