@@ -73,3 +73,56 @@
     ru: Жорик
   alias: 
     ru: Жора
+- ID: Chip_2020
+  name:
+    zh: 奇普
+    en: Chip
+    ru: Чип
+- ID: Earl_2020
+  name:
+    zh: 伯爵
+    en: Earl
+    ru: Эрл
+- ID: Emma_2020
+  name:
+    zh: 艾玛
+    en: Emma
+    ru: Эмма
+- ID: Lolo_2020
+  name:
+    zh: 洛洛
+    en: Lolo
+    ru: Лоло
+- ID: Pepe_2020
+  name:
+    zh: 佩佩
+    en: Pepe
+    ru: Пепе
+- ID: Timofey_2020
+  name:
+    zh: 寂寞飞
+    en: Timofey
+    ru: Тимофей
+- ID: Snezhinka_2022
+  name:
+    zh: 雪花
+    en: Snezhinka
+    ru: Снежинка
+- ID: Bajun_2022
+  name:
+    zh: 巴尤恩
+    en: Bajun
+    ru: Баюн
+- ID: Shaman_2022
+  name:
+    en: Shaman
+    ru: Шаман
+- ID: Snezhana_2022
+  name:
+    zh: 雪球
+    en: Snezhana
+    ru: Снежаной
+- ID: Shorokh_2022
+  name:
+    en: Shorokh
+    ru: Шорох
