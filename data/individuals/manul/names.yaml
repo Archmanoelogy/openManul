@@ -73,6 +73,11 @@
     ru: Жорик
   alias: 
     ru: Жора
+- ID: Eve_2020
+  name:
+    zh: 夏娃
+    en: Eve
+    ru: Ева
 - ID: Chip_2020
   name:
     zh: 奇普
@@ -98,21 +103,1043 @@
     zh: 佩佩
     en: Pepe
     ru: Пепе
+- ID: Adele_2020
+  name:
+    zh: 阿黛尔
+    en: Adele
+    ru: Адель
+- ID: Achi_2020
+  name:
+    zh: 阿奇
+    en: Achi
+    ru: Ачи
+- ID: Altai_2014
+  name:
+    zh: 阿尔泰
+    en: Altai
+    ru: Алтай
+- ID: Khan_2006
+  name:
+    zh: 可汗
+    en: Khan
+    ru: Хан
+- ID: Sven_2014
+  name:
+    zh: 斯万
+    en: Sven
+    ru: Свэн
+- ID: Namika_2018
+  name:
+    zh: 纳米卡
+    en: Namika
+    ru: Намика
+- ID: Altai_2016
+  name:
+    zh: 阿尔泰
+    en: Altai
+    ru: Алтай
 - ID: Timofey_2020
   name:
     zh: 寂寞飞
     en: Timofey
     ru: Тимофей
+- ID: Calypso_2015
+  name:
+    zh: 卡吕普索
+    en: Calypso
+    ru: Калипсо
+- ID: Manurumama_1995
+  name:
+    zh: 日本狲妈
+    en: Manuru-Mama
+    ja: マヌルママ
+- ID: Manurupapa_1997
+  name:
+    zh: 日本狲爸
+    en: Manuru-Papa
+    ja: マヌルパパ
+- ID: Honey_2012
+  name:
+    zh: 哈尼
+    en: Honey
+    ru: Хани
+    ja: ハ二ー
+- ID: Bayal_1998
+  name:
+    zh: 巴雅尔
+    en: Bayal
+    ja: バヤル
+- ID: Lalah_2001
+  name:
+    zh: 拉拉
+    en: Lalah
+    ja: ララー
+- ID: Yus_2010
+  name:
+    zh: 柚子
+    en: Yus
+    ja: ユス
+- ID: Naima_2010
+  name:
+    zh: 那依姆
+    en: Naima
+    ru: Найм
+    ja: ナイマ
+- ID: Doloo_2010
+  name:
+    zh: 多鲁
+    en: Doloo
+    ru: Долоо
+    ja: ドロー
+- ID: Primula_2017
+  name:
+    zh: 樱草
+    en: Primula
+    ru: Примула
+    ja: プリームラ
+- ID: Sebastian_2004
+  name:
+    zh: 塞巴斯蒂安
+    en: Sebastian
+    ja: セバスチャン
+- ID: Sylvie_2004
+  name:
+    zh: 西尔维
+    en: Sylvie
+    ja: シルヴィ
+- ID: Oscar_2006
+  name:
+    zh: 奥斯卡
+    en: Oscar
+    ja: オスカー
+- ID: Tabby_2008
+  name:
+    zh: 塔比
+    en: Tabby
+    ja: タビー
+- ID: Lotus_2017
+  name:
+    zh: 莲
+    en: Lotus
+    ru: Лотос
+    ja: ロータス
+- ID: Oliva_2017
+  name:
+    zh: 橄榄
+    en: Oliva
+    ru: Олива
+    ja: オリーヴァ
+- ID: Pecky_2007
+  name:
+    zh: 佩姬
+    en: Pecky
+    ja: ペツキー
+- ID: Iris_2017
+  name:
+    zh: 鸢尾
+    en: Iris
+    ru: Ирис
+    ja: イーリス
+- ID: Bol_2014
+  name:
+    zh: 波尔
+    en: Bol
+    ru: Бор
+    ja: ボル
+- ID: Polly_2015
+  name:
+    zh: 波莉
+    en: Polly
+    ru: Полли
+    ja: ポリー
+- ID: Lev_2014
+  name:
+    zh: 列夫
+    en: Lev
+    ru: Лев
+    ja: レフ
+- ID: Grusha_2017
+  name:
+    zh: 梨
+    en: Grusha
+    ru: Груша
+    ja: グルーシャ
+- ID: Eru_2019
+  name:
+    zh: 康康
+    en: Eru
+    ru: Эр
+    ja: エル
+- ID: Azu_2019
+  name:
+    zh: 福崽崽
+    en: Azu
+    ru: Аз
+    ja: アズ
+- ID: Nar_2021
+  name:
+    zh: 纳尔
+    en: Nar
+    ru: Нар
+    ja: ナル
+- ID: Hal_2014
+  name:
+    zh: 哈尔
+    en: Hal
+    ru: Хар
+    ja: ハル
+- ID: Sural_2014
+  name:
+    zh: 苏拉尔
+    en: Sural
+    ru: Саарал
+    ja: サーラル
+- ID: Shar_2014
+  name:
+    zh: 莎尔
+    en: Shar
+    ja: シャル
+- ID: Emon_1999
+  name:
+    zh: 埃蒙
+    en: Emon
+    ja: エモン
+- ID: Jubei_1999
+  name:
+    zh: 巨北
+    en: Jubei
+    ja: 十兵衛
+- ID: Marimo_2001
+  name:
+    zh: 球藻
+    en: Marimo
+    ja: マリモ
+- ID: Mary_2006
+  name:
+    zh: 玛丽
+    en: Mary
+    ja: マリィ
+- ID: Markiza_2010
+  name:
+    zh: 女侯爵
+    en: Markiza
+    ru: Маркиза
 - ID: Snezhinka_2022
   name:
     zh: 雪花
     en: Snezhinka
     ru: Снежинка
+- ID: Zara_2018
+  name:
+    zh: 扎拉
+    en: Zara
+    ru: Зара
+    ja: ザラ
+- ID: Aisha_2016
+  name:
+    zh: 阿伊莎
+    en: Aisha
+    ru: Айши
+    ja: アイシャ
+- ID: Moose_2019
+  name:
+    zh: 穆斯
+    en: Moose
+- ID: Tiina_2020
+  name:
+    zh: 蒂娜
+    en: Tiina
+- ID: Borsika_2014
+  name:
+    zh: 豌豆
+    en: Borsika
+- ID: Bohus_2018
+  name:
+    zh: 波尔斯
+    en: Bohus
+- ID: Aldan_2022
+  name:
+    zh: 阿尔丹
+    en: Aldan
+- ID: Algyr_2022
+  name:
+    zh: 阿尔及尔
+    en: Algyr
+- ID: Altana_2022
+  name:
+    zh: 阿尔塔娜
+    en: Altana
+- ID: Arkas_2022
+  name:
+    zh: 阿尔卡斯
+    en: Arkas
+- ID: Aysen_2022
+  name:
+    zh: 艾森
+    en: Aysen
+- ID: Aytas_2022
+  name:
+    zh: 阿尔塔斯
+    en: Aytas
+    ru: Айтас
+- ID: Pabu_2010
+  name:
+    zh: 帕布
+    en: Pabu
+    ru: Пабу
+- ID: Micha_2010
+  name:
+    zh: 米哈
+    en: Micha
+    ru: Миха
+- ID: Petenka_2011
+  name:
+    zh: 佩滕卡
+    en: Petenka
+    ru: Петенъка
+- ID: Bo_2017
+  name:
+    en: Bo
+- ID: Mushu_2017
+  name:
+    zh: 木须
+    en: Mushu
+- ID: Pabu_2017
+  name:
+    en: Pabu
+- ID: Tate_2017
+  name:
+    en: Tate
+- ID: Ting_2017
+  name:
+    en: Ting
+- ID: Bataar_2018
+  name:
+    zh: 巴塔尔
+    en: Bataar
+- ID: Kaz_2018
+  name:
+    en: Kaz
+- ID: Tashi_2018
+  name:
+    en: Tashi
+- ID: Nox_2018
+  name:
+    en: Nox
+- ID: Pema_2018
+  name:
+    zh: 佩玛
+    en: Pema
+- ID: Eva_2016
+  name:
+    zh: 伊娃
+    en: Eva
+- ID: Klyon_2016
+  name:
+    zh: 枫
+    en: Klyon
+    ru: Клён
+    ja: クリョン
+- ID: Fellini_2020
+  name:
+    zh: 费里尼
+    en: Fellini
+- ID: Mimi_2019
+  name:
+    zh: 咪咪
+    en: Mimi
+- ID: Isabel_2020
+  name:
+    zh: 伊莎贝尔
+    en: Isabel
+- ID: Laura_2020
+  name:
+    zh: 劳拉
+    en: Laura
+- ID: Manda_2013
+  name:
+    zh: 曼达
+    en: Manda
+- ID: Norbu_2013
+  name:
+    zh: 老罗布
+    en: Norbu
+    ru: Норбу
+- ID: Pema_2014
+  name:
+    zh: 佩玛
+    en: Pema
+- ID: Bjorna_2014
+  name:
+    zh: 比约恩
+    en: Bjorna
+- ID: Vadim_2009
+  name:
+    zh: 瓦迪姆
+    en: Vadim
+    ru: Вадим
+    ja: バジム
+- ID: Atlas_2020
+  name:
+    zh: 阿特拉斯
+    en: Atlas
+- ID: Jodi_2019
+  name:
+    zh: 乔迪
+    en: Jodi
+- ID: Zarina_2016
+  name:
+    zh: 扎瑞娜
+    en: Zarina
+    ru: Зарина
+- ID: Nazar_2016
+  name:
+    zh: 纳扎尔
+    en: Nazar
+    ru: Назар
+- ID: Kubi_2020
+  name:
+    zh: 库比
+    en: Kubi
+- ID: Alani_2019
+  name:
+    en: Alani
+- ID: Altani_2019
+  name:
+    zh: 阿尔塔尼
+    en: Altani
+    ru: Алтани
+- ID: Cota_2019
+  name:
+    en: Cota
+- ID: Khal_2019
+  name:
+    en: Khal
+- ID: Yeke_2019
+  name:
+    en: Yeke
+- ID: Batu_2016
+  name:
+    en: Batu
+- ID: Katarina_2012
+  name:
+    zh: 卡塔丽娜
+    en: Katarina
+- ID: Sinok_2006
+  name:
+    zh: 桑尼
+    en: Sinok
+    ru: сынок
+- ID: Dima_2016
+  name:
+    en: Dima
+    ru: Дима
+- ID: Dersu_2018
+  name:
+    en: Dersu
+    ru: Дерсу
+- ID: Sheb_2012
+  name:
+    zh: 谢布
+    en: Sheb
+    ru: Шеб
+    ja: シェブ
+- ID: Khvostik_2018
+  name:
+    zh: 尾巴
+    en: Khvostik
+    ru: Хвостик
+    ja: しっぽ
+- ID: Mars_2020
+  name:
+    zh: 玛尔斯
+    en: Mars
+    ru: Марс
+- ID: Qara_2017
+  name:
+    zh: 卡拉
+    en: Qara
+    ru: Кара
+- ID: Jochi_2016
+  name:
+    zh: 朮赤
+    en: Jochi
+- ID: Araatan_2016
+  name:
+    en: Araatan
+- ID: Temujin_2007
+  name:
+    zh: 铁木真
+    en: Temujin
+    ru: Темучина
+- ID: Sudan_temp
+  name:
+    zh: 苏丹
+    en: Sudan
+    ru: Султан
+- ID: Pazi_2020
+  name:
+    zh: 佩吉
+    en: Pazi
+- ID: Olaf_2014
+  name:
+    zh: 奥拉夫
+    en: Olaf
+- ID: Shu_2023
+  name:
+    zh: 泡芙
+    en: Shu
+    ru: Шу
+- ID: Malina_temp
+  name:
+    en: Malina
+- ID: Arkasha_temp
+  name:
+    en: Arkasha
+- ID: Skipa_temp
+  name:
+    en: Skipa
+- ID: Satori_2012
+  name:
+    en: Satori
+    ru: Сатори
+- ID: Innokenty_2015
+  name:
+    zh: 渣男
+    en: Innokenty
+    ru: Кеша Бабник
+- ID: Alice_2021
+  name:
+    en: Alice
+    ru: Алиса
+- ID: Brunhilda_2021
+  name:
+    en: Brunhilda
+    ru: Брунгильда
+- ID: Kelen_temp
+  name:
+    zh: 凯伦
+    en: Kelen
+    ru: Кэлен
 - ID: Bajun_2022
   name:
     zh: 巴尤恩
     en: Bajun
     ru: Баюн
+- ID: Akar_2020
+  name:
+    en: Akar
+- ID: Ceba_2020
+  name:
+    en: Ceba
+- ID: Nancy_2017
+  name:
+    zh: 南希
+    en: Nancy
+- ID: Boris-Budapest_temp
+  name:
+    en: Boris in Budapest
+- ID: Stubsi_2016
+  name:
+    en: Stubsi
+- ID: Pluschi_2016
+  name:
+    en: Pluschi
+- ID: Thomas-O-Malley_2016
+  name:
+    zh: 托马斯·欧马利
+    en: Thomas O'Malley
+- ID: Prinsessa_2023
+  name:
+    zh: 公主
+    en: Prinsessa
+- ID: Pazzo_2016
+  name:
+    zh: 帕佐
+    en: Pazzo
+- ID: Loesje_2017
+  name:
+    zh: 柳霞
+    en: Loesje
+- ID: Chengdu_2020
+  name:
+    zh: 成都
+    en: Chengdu
+- ID: Maneki-neko_2015
+  name:
+    zh: 招财猫
+    en: Maneki-neko
+- ID: Charu_2020
+  name:
+    en: Charu
+- ID: Minya_2021
+  name:
+    en: Minya
+    ru: Минья
+    ja: ミーニャ
+- ID: Magellan_2020
+  name:
+    zh: 麦哲伦
+    en: Magellan
+- ID: Nozomi_2017
+  name:
+    zh: 希望
+    en: Nozomi
+    ja: 希望
+- ID: Vtora_temp
+  name:
+    zh: 弗多拉
+    en: Vtora
+    ru: Втора
+- ID: Grustinka_2023
+  name:
+    zh: 忧忧
+    en: Grustinka
+    ru: Грустинкой
+- ID: Penelope_2016
+  name:
+    en: Penelope
+- ID: Tull_2014
+  name:
+    en: Tull
+- ID: Hopalong_temp
+  name:
+    en: Hopalong
+- ID: Tsara_temp
+  name:
+    en: Tsara
+- ID: Molniya_2023
+  name:
+    zh: 闪电
+    en: Boris
+    ru: Борис
+- ID: Shir-Khan_temp
+  name:
+    en: Shir Khan
+    ru: Шир Хан
+- ID: Melissa_2015
+  name:
+    zh: 梅丽莎
+    en: Melissa
+    ru: Мелисса
+- ID: Norbu_2018
+  name:
+    zh: 小罗布
+    en: Norbu
+- ID: Johan_2020
+  name:
+    zh: 约翰
+    en: Johan
+- ID: Salkhi_2017
+  name:
+    en: Salkhi
+- ID: Misha_2016
+  name:
+    zh: 米沙
+    en: Misha
+- ID: Kosoglazik_2018
+  name:
+    zh: 眼睛
+    en: Kosoglazik
+    ru: Косоглазик
+- ID: Vorace_2017
+  name:
+    en: Vorace
+    ru: Ворас
+- ID: Pomponnette_2016
+  name:
+    en: Pomponnette
+- ID: Sarnai_2016
+  name:
+    en: Sarnai
+- ID: Finn_2016
+  name:
+    zh: 芬
+    en: Finn
+- ID: Brie_2022
+  name:
+    en: Brie
+- ID: Subitai_temp
+  name:
+    en: Subitai
+- ID: Yeshi_temp
+  name:
+    en: Yeshi
+- ID: Elvira_2008
+  name:
+    en: Elvira
+- ID: Gimli_2016
+  name:
+    en: Gimli
+- ID: Tyrion_2016
+  name:
+    en: Tyrion
+- ID: Luka_2010
+  name:
+    zh: 老卢卡
+    en: Luka
+- ID: Minka_2013
+  name:
+    en: Minka
+- ID: Alik_2010
+  name:
+    en: Alik
+- ID: Boke_2007
+  name:
+    en: Boke
+- ID: Mischa_2017
+  name:
+    en: Mischa
+- ID: Midas_2020
+  name:
+    zh: 迈达斯
+    en: Midas
+- ID: Perseus_2020
+  name:
+    zh: 珀尔修斯
+    en: Perseus
+- ID: Phyllaris_2020
+  name:
+    zh: 菲勒瑞斯
+    en: Phyllaris
+- ID: Ruby_2019
+  name:
+    zh: 鲁比
+    en: Ruby
+- ID: Odlha_2022
+  name:
+    zh: 乌拉
+    en: Odlha
+- ID: Rooster_2022
+  name:
+    zh: 公鸡
+    en: Rooster
+- ID: Daod_2022
+  name:
+    zh: 达伍
+    en: Daod
+- ID: Pa-noel_temp
+  name:
+    zh: 荷兰狲爸
+    en: Pa-noel
+- ID: Ma-noel_2012
+  name:
+    zh: 荷兰狲妈
+    en: Ma-noel
+- ID: Borys_2011
+  name:
+    zh: 鲍里斯
+    en: Borys
+- ID: Mania_2016
+  name:
+    zh: 马尼亚
+    en: Mania
+- ID: Mushdog_2011
+  name:
+    zh: 蘑菇狗
+    en: Mushdog
+- ID: Anya_2010
+  name:
+    zh: 安雅
+    en: Anya
+- ID: Olive_2020
+  name:
+    zh: 奥莉
+    en: Olive
+- ID: Jessie_2016
+  name:
+    zh: 杰西
+    en: Jessie
+- ID: Khir_2017
+  name:
+    en: Khir
+- ID: Rosa_2014
+  name:
+    zh: 罗莎
+    en: Rosa
+- ID: Makari_2023
+  name:
+    en: Makari
+- ID: Luka_2023
+  name:
+    zh: 小卢卡
+    en: Luka
+- ID: Kasper_2023
+  name:
+    en: Kasper
+- ID: Reza_2023
+  name:
+    en: Reza
+- ID: Mikhail_2017
+  name:
+    en: Mikhail
+- ID: Buck_2008
+  name:
+    zh: 巴克
+    en: Buck
+- ID: Bella_2014
+  name:
+    zh: 贝拉
+    en: Bella
+- ID: Yinto_2020
+  name:
+    en: Yinto
+- ID: Oto_2020
+  name:
+    en: Oto
+- ID: Kulki_2020
+  name:
+    en: Kulki
+- ID: Akiko_2020
+  name:
+    en: Akiko
+- ID: Bozenka_2020
+  name:
+    zh: 博任卡
+    en: Bożenka
+- ID: Jethro_2014
+  name:
+    en: Jethro
+- ID: Garab_2013
+  name:
+    en: Garab
+- ID: Tula_2007
+  name:
+    en: Tula
+- ID: Tashi_2014
+  name:
+    en: Tashi
+- ID: Wei-Shand_2007
+  name:
+    en: Wei-Shand
+- ID: Caspian_2010
+  name:
+    en: Caspain
+- ID: Pamir_2010
+  name:
+    zh: 帕米尔
+    en: Pamir
+- ID: Uhlan-Bator_2010
+  name:
+    zh: 乌拉巴托
+    en: Uhlan Bator
+- ID: Aduva_2010
+  name:
+    en: Aduva
+- ID: Yeshi_2013
+  name:
+    en: Yeshi
+- ID: Norbu_2017
+  name:
+    en: Norbu
+- ID: Batbayar_2017
+  name:
+    en: Batbayar
+- ID: Belka_temp
+  name:
+    zh: 贝尔卡
+    en: Belka
+- ID: Lina_2005
+  name:
+    en: Lina
+- ID: Bora_2007
+  name:
+    en: Bora
+- ID: Buster_2007
+  name:
+    en: Buster
+- ID: Pavel_2010
+  name:
+    en: Pavel
+- ID: Bella_2007
+  name:
+    zh: 贝拉
+    en: Bella
+- ID: Princess_temp
+  name:
+    en: Princess
+- ID: Gobi_temp
+  name:
+    en: Gobi
+- ID: Romulus_2005
+  name:
+    zh: 罗慕路斯
+    en: Romulus
+- ID: Remus_2005
+  name:
+    zh: 雷穆斯
+    en: Remus
+- ID: Yuri_temp
+  name:
+    zh: 尤里
+    en: Yuri
+- ID: Olga_temp
+  name:
+    zh: 奥尔加
+    en: Olga
+- ID: Petruschka_temp
+  name:
+    zh: 彼得鲁什卡
+    en: Petruschka
+- ID: Sonya_temp
+  name:
+    en: Sonya
+- ID: Nikolai_temp
+  name:
+    en: Nikolai
+- ID: Boris_temp
+  name:
+    en: Boris
+- ID: Ginger_temp
+  name:
+    en: Ginger
+- ID: Vera_temp
+  name:
+    en: Vera
+- ID: Sophia_temp
+  name:
+    zh: 索菲亚
+    en: Sophia
+- ID: Paval_temp
+  name:
+    en: Paval
+- ID: Spay_temp
+  name:
+    zh: 斯派王子
+    en: Spay
+- ID: Manuela_2023
+  name:
+    zh: 马努埃拉
+    en: Manuela
+- ID: Collins_2019
+  name:
+    zh: 柯林斯
+    en: Collins
+- ID: Buddy_2003
+  name:
+    zh: 老弟
+    en: Buddy
+- ID: Dude_2003
+  name:
+    zh: 老兄
+    en: Dude
+- ID: Dean_2019
+  name:
+    zh: 迪恩
+    en: Dean
+- ID: Manni_temp
+  name:
+    zh: 曼尼
+    en: Manni
+- ID: Puff_temp
+  name:
+    en: Puff
+- ID: Peter_2022
+  name:
+    en: Paploo
+- ID: Poppy_2022
+  name:
+    en: Namuu
+- ID: Manu_2012
+  name:
+    zh: 马努
+    en: Manu
+- ID: Nathu_2018
+  name:
+    zh: 乃堆
+    en: Nathu
+- ID: Rohtang_2018
+  name:
+    zh: 罗塘
+    en: Rohtang
+- ID: Rgasha_2016
+  name:
+    zh: 加舒尔
+    en: Rgasha
+- ID: Chogori_2016
+  name:
+    zh: 乔戈里
+    en: Čhogori
+- ID: Pamir_2016
+  name:
+    zh: 帕米尔
+    en: Pamir
+- ID: Kisa_2016
+  name:
+    en: Kisa
+- ID: Riga_temp
+  name:
+    zh: 里加的雌狲
+    en: female in Riga
+- ID: Tai-Chi_2017
+  name:
+    zh: 太极
+    en: Tai Chi
+- ID: Haruto_2017
+  name:
+    en: Haruto
+- ID: Lara_temp
+  name:
+    en: Lara
+- ID: Alexandra_1998
+  name:
+    zh: 亚历山德拉
+    en: Alexandra
+- ID: Nicholas_1998
+  name:
+    en: Nicholas
+- ID: Alexey_temp
+  name:
+    en: Alexey
+- ID: Chin-Li_temp
+  name:
+    en: Chin Li
+- ID: Nadia_2002
+  name:
+    en: Nadia
+- ID: Red_2002
+  name:
+    en: Red
+- ID: Khan_2007
+  name:
+    en: Khan
+- ID: Kumul_2009
+  name:
+    en: Kumul
+- ID: Borte_temp
+  name:
+    en: Borte
+- ID: Belka_2010
+  name:
+    en: Belka
+- ID: Sasza_2016
+  name:
+    en: Sasza
+- ID: Hursta_2007
+  name:
+    en: Hursta
+- ID: Igor_temp
+  name:
+    zh: 伊戈尔
+    en: Igor
+- ID: Ivanna_temp
+  name:
+    en: Ivanna
+- ID: Katya_temp
+  name:
+    en: Katya
+- ID: Boris_2007
+  name:
+    en: Boris
+- ID: Natasha_2001
+  name:
+    en: Natasha
+- ID: Boris-in-BCR_temp
+  name:
+    en: Boris in BCR
+- ID: Mau-Tse-Chow_temp
+  name:
+    en: Mau Tse Chow
 - ID: Shaman_2022
   name:
     en: Shaman
@@ -126,3 +1153,474 @@
   name:
     en: Shorokh
     ru: Шорох
+- ID: Atlan_2016
+  name:
+    en: Atlan
+- ID: Gor-ye_temp
+  name:
+    en: Gor-ye
+- ID: Pluton_2020
+  name:
+    en: Pluton
+- ID: Erwin_temp
+  name:
+    en: Erwin
+- ID: Veselka_2023
+  name:
+    zh: 乐乐
+    en: Veselka
+    ru: Веселка
+- ID: Kokos_2023
+  name:
+    en: Kokos
+    ru: Кокос
+- ID: Finik_2023
+  name:
+    en: Finik
+    ru: Финик
+- ID: Bartok_2016
+  name:
+    zh: 巴托克
+    en: Bartok
+- ID: Agneta_2014
+  name:
+    zh: 昂内塔
+    en: Agneta
+- ID: Chomutov-M_2010
+  name:
+    zh: 霍穆托夫的狲爸
+    en: Qara's Dad
+- ID: Maura_2020
+  name:
+    en: Maura
+- ID: Moira_2020
+  name:
+    en: Moira
+- ID: Chomutov_2016
+  name:
+    zh: 霍穆托夫的雄狲
+    en: male in Chomutov
+- ID: Chomutov-F_2010
+  name:
+    zh: 霍穆托夫的狲妈
+    en: Qara's Mom
+- ID: Chomutov-Nsk_2015
+  name:
+    zh: 霍穆托夫的雌狲
+    en: female in Chomutov
+- ID: Benny_2007
+  name:
+    en: Benny
+- ID: Frida_2007
+  name:
+    en: Frida
+- ID: Oto_2024
+  name:
+    zh: 音
+    en: Oto
+    ja: オト
+- ID: Teru_2024
+  name:
+    zh: 照
+    en: Teru
+    ja: テル
+- ID: Nagomu_2024
+  name:
+    zh: 和
+    en: Nagomu
+    ja: ナゴム
+- ID: Mei_2024
+  name:
+    zh: 明
+    en: Mei
+    ja: メイ
+- ID: Okhin_2016
+  name:
+    en: Okhin
+- ID: Nuruu_temp
+  name:
+    en: Nuruu
+    ru: Пишут
+- ID: Bugai_2007
+  name:
+    en: Bugai
+    ru: Бугай
+- ID: Caesar_temp
+  name:
+    zh: 凯撒
+    en: Caesar
+    ru: Цезарь
+- ID: Prima_temp
+  name:
+    en: Prima
+    ru: Прима
+- ID: Moscow-Prague_2004
+  name:
+    zh: 莫斯科的老狲
+    en: male in Moscow
+- ID: Varvara_temp
+  name:
+    en: Varvara
+    ru: Варвара
+- ID: Dymka_temp
+  name:
+    en: Dymka
+    ru: Дымка
+- ID: Shilka_temp
+  name:
+    en: Shilka
+    ru: Шилка
+- ID: Altai_2018
+  name:
+    zh: 阿尔泰
+    en: Altaï
+    ru: Алтай
+- ID: Olek_temp
+  name:
+    en: Olek
+- ID: Wuhan_temp
+  name:
+    zh: 武汉
+    en: Wuhan
+- ID: Xiaola_2023
+  name:
+    zh: 辣弟
+    en: La Di
+    ru: Ла Ди
+- ID: Kuohao_2023
+  name:
+    zh: 括号
+    en: Kuo Hao
+    ru: Куо Хао
+- ID: Uu_2023
+  name:
+    en: Uu
+    ru: Уу
+- ID: Fangfang_2023
+  name:
+    zh: 方方
+    en: Fang Fang
+    ru: Фан Фан
+- ID: Gimpy_2003
+  name:
+    en: Gimpy
+- ID: Safran_2024
+  name:
+    zh: 藏红花
+    en: Safran
+    ru: Шафран
+    ja: サフラン
+- ID: Abrikos_2024
+  name:
+    zh: 杏
+    en: Abrikos
+    ru: Абрикос
+    ja: アブリコース
+- ID: Figa_2024
+  name:
+    zh: 无花果
+    en: Figa
+    ru: Фига
+    ja: フィーガ
+- ID: Qolli-Olli_2024
+  name:
+    en: Qolli-Olli
+- ID: Qatti-Matti_2024
+  name:
+    en: Qatti-Matti
+- ID: Mortti_2012
+  name:
+    zh: 莫蒂
+    en: Mortti
+    ru: Мортти
+- ID: Dalai_2011
+  name:
+    zh: 达赖
+    en: Dalai
+    ru: Далай
+- ID: Emo_2016
+  name:
+    en: Emo
+    ru: Эмо
+- ID: Kudai_2016
+  name:
+    zh: 科希策的雄狲
+    en: male in Kosice
+- ID: Poes_temp
+  name:
+    en: Poes
+- ID: Mochi_temp
+  name:
+    zh: 麻薯
+    en: Mochi
+    ja: モチ
+- ID: Beijing-F1_temp
+  name:
+    zh: 北动的卷尾雌狲
+    en: curved tail in Beijing
+- ID: Beijing-F2_temp
+  name:
+    zh: 北动最后的雌狲
+    en: last female in Beijing
+- ID: Agrunia_temp
+  name:
+    en: Agrunia
+    ru: Агруня
+- ID: Qatti_temp
+  name:
+    en: Qatti
+- ID: Lenissei_2016
+  name:
+    zh: 叶尼塞
+    en: Lenisseï
+    ru: Енисей
+- ID: Ula_2023
+  name:
+    zh: 乌拉
+    en: Ula
+- ID: Qara-Lympne_temp
+  name:
+    zh: 卡拉
+    en: Qara
+- ID: Blade_temp
+  name:
+    zh: 刀锋
+    en: Blade
+    ru: Блейд
+- ID: Oural_temp
+  name:
+    zh: 乌拉尔
+    en: Oural
+    ru: Урал
+- ID: Altai-in-Mulhouse_2014
+  name:
+    zh: 阿尔泰
+    en: Altaï
+    ru: Алтай
+- ID: Jihl_2022
+  name:
+    en: Jihl
+    ru: Джил
+- ID: Ewok_2022
+  name:
+    en: Ewok
+    ru: Эвок
+- ID: Timofey_2013
+  name:
+    zh: 蒂莫菲
+    en: Timofey
+    ru: Тимофей
+- ID: Qigong_2010
+  name:
+    en: Qigong
+    ru: Цигун
+- ID: Drachun_2018
+  name:
+    en: Drachun
+    ru: Драчун
+- ID: Muztau_2016
+  name:
+    zh: 慕士塔格
+    en: Muztau
+    ru: Музтау
+- ID: Zoe-Lyon_2016
+  name:
+    en: Zoë
+    ru: Зоя
+- ID: Nike_2020
+  name:
+    en: Nike
+- ID: Sierra_2003
+  name:
+    en: Sierra
+- ID: Seven_2003
+  name:
+    en: Seven
+- ID: Shasta_2003
+  name:
+    en: Shasta
+- ID: AMao_2019
+  name:
+    zh: 阿猫
+    en: A Mao
+- ID: AGou_2019
+  name:
+    zh: 阿狗
+    en: A Gou
+- ID: Child-of-Xiaomei_2020
+  name:
+    zh: 小妹的孩子
+    en: Child of Xiaomei
+- ID: SunDalang_2021
+  name:
+    zh: 狲大郎
+    en: Sun Dalang
+- ID: SunErniang_2021
+  name:
+    zh: 狲二娘
+    en: Sun Erniang
+- ID: SunErlang_2021
+  name:
+    zh: 狲二郎
+    en: Sun Erlang
+- ID: SunSanniang_2021
+  name:
+    zh: 狲三娘
+    en: Sun Sanniang
+- ID: XiaoBudian_2021
+  name:
+    zh: 小不点
+    en: Xiao Budian
+- ID: Lama_2011
+  name:
+    en: Lama
+- ID: Tashi_2024
+  name:
+    en: Tashi
+- ID: Meera_2024
+  name:
+    en: Meera
+- ID: Goose_2024
+  name:
+    en: Goose
+- ID: Fuggitivo_2022
+  name:
+    en: Fuggitivo
+- ID: Jihlava-F_2016
+  name:
+    zh: 伊赫拉瓦的雌狲
+    en: female in Jihlava
+- ID: Wednesday_2022
+  name:
+    zh: 星期三
+    en: Wednesday
+- ID: Jihlava-M_2020
+  name:
+    zh: 伊赫拉瓦的雄狲
+    en: male in Jihlava
+- ID: Makalu_2020
+  name:
+    zh: 马卡鲁
+    en: Makalu
+- ID: Mani_2020
+  name:
+    zh: 玛妮
+    en: Mani
+- ID: Aiolos_2015
+  name:
+    en: Aiolos
+    ru: Эол
+- ID: Son-of-Eve-1_2024
+  name:
+    en: Amethyst
+    ru: Аметист
+- ID: Son-of-Eve-2_2024
+  name:
+    en: Khabar
+    ru: Хабар
+- ID: Son-of-Eve-3_2024
+  name:
+    en: Sychik
+    ru: Сычик
+- ID: Son-of-Eve-4_2024
+  name:
+    en: Irkut
+    ru: Иркут
+- ID: Anya_2024
+  name:
+    zh: 安娜
+    en: Anya
+    ru: Аня
+- ID: Son-of-Lolo-1_2024
+  name:
+    zh: 路西法
+    en: Lucifer
+    ru: Люцифер
+- ID: Nezabudka_2024
+  name:
+    zh: 勿忘草
+    en: Nezabudka
+    ru: Незабудка
+- ID: Son-of-Lolo-3_2024
+  name:
+    en: 'Lolokin #3'
+- ID: Daughter-of-Lolo-4_2024
+  name:
+    en: Angara
+    ru: Ангара
+- ID: Daughter-of-Lolo-5_2024
+  name:
+    en: Kuraga
+    ru: Курага
+- ID: Son-of-Lolo-6_2024
+  name:
+    en: Kedr
+    ru: Кедр
+- ID: Daughter-of-Lolo-7_2024
+  name:
+    en: 'Lolokin #7'
+- ID: Goroshinka_2025
+  name:
+    zh: 小豆豆
+    en: Goroshinka
+    ru: Горошинка
+- ID: Sprinter_2025
+  name:
+    en: Grey
+    ru: Серый
+- ID: Anchor_2025
+  name:
+    en: Ginger
+    ru: Рыжий
+- ID: Baralacha_2018
+  name:
+    zh: 巴拉拉查
+    en: Baralacha
+- ID: Banihal_2018
+  name:
+    zh: 巴尼哈尔
+    en: Banihal
+- ID: Batu_2019
+  name:
+    en: Batu
+- ID: Fratello-Di-Manu_2012
+  name:
+    en: Fratello di Manu
+- ID: Madre_1999
+  name:
+    zh: 意大利狲妈
+    en: Madre
+- ID: Padre_1999
+  name:
+    zh: 意大利狲爸
+    en: Padre
+- ID: La-Torbiera-F_2007
+  name:
+    zh: 拉托比耶拉的雌狲
+    en: female in La Torbiera
+- ID: La-Torbiera-M_2007
+  name:
+    zh: 拉托比耶拉的雄狲
+    en: male in La Torbiera
+- ID: Seccato_2016
+  name:
+    en: Seccato
+- ID: Furioso_2016
+  name:
+    en: Furioso
+- ID: Akkem_2025
+  name:
+    en: Akkem
+    ru: Аккем
+- ID: Berel_2025
+  name:
+    en: Berel’
+    ru: Берель
+- ID: Katun_2025
+  name:
+    en: Katun
+    ru: Катунь
+- ID: Mensu_2025
+  name:
+    en: Mensu
+    ru: Менсу
