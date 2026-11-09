@@ -775,3 +775,19 @@
     en: Vienna Zoo
     zh: 维也纳动物园
   zoo_site: 'https://www.zoovienna.at'
+- ID: ZELZOO
+  lat: 56.0912
+  lng: 94.6159
+  name:
+    ru: Зеленогорский зоопарк
+    en: Zelenogorsk Zoopark
+    zh: 泽列诺戈尔斯克动物园
+  zoo_site: 'https://zelzoo.ru'
+- ID: Karagandy
+  lat: 49.7862
+  lng: 73.0583
+  name:
+    en: Karagandy Zoo
+    ru: Карагандинский зоопарк
+    zh: 卡拉干达动物园
+  zoo_site: 'https://zooinstitutes.com/zooinstitutes/karagandy-zoo-308.html'

@@ -14,7 +14,9 @@
   - zoo: NSKZOO
     time: '2013.S3-2026'
   links: 
-  - 'https://manulization.com/manuls/karaganda.html'
+  - href: 'https://manulization.com/manuls/karaganda.html'
+    title: |
+      Manulization: Karaganda
 - ID: Zelenogorsk_wild
   gender: MALE
   year_1: '2013~'
@@ -26,11 +28,17 @@
   - nature: 
       zh: 俄罗斯图瓦共和国野外
     time: '?-2013'
-  - zoo: Zelenogorsk
-    time: '2013-2014.06-17'
+  - zoo: ZELZOO
+    time: '2013-2014.06.17'
   - zoo: NSKZOO
     time: '2014.06.17-2026'
   links: 
-  - 'https://manulization.com/manuls/manul-zelenogorsk.html'
-  - 'https://www.youtube.com/shorts/BVTgx9TpAWM'
-  - 'https://ngs.ru/text/animals/2024/10/08/74180897'
+  - href: 'https://manulization.com/manuls/manul-zelenogorsk.html'
+    title: |
+      Manulization: Zelenogorsk
+  - href: 'https://www.youtube.com/shorts/BVTgx9TpAWM'
+    title: |
+      Youtube Video: Zelenogorsk the Pallas's cat warms his paws on his tail
+  - href: 'https://ngs.ru/text/animals/2024/10/08/74180897'
+    title: |
+      News: Манул поцарапал посетительницу Новосибирского зоопарка и остался собой доволен
